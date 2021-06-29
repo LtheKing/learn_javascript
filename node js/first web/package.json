@@ -1,0 +1,24 @@
+{
+    "name": "testing_web",
+    "version": "1.0.0",
+    "description": "this is first trial of learning node js",
+    "main": "server.js",
+    "dependencies": {
+        "express": "^4.17.1",
+        "pug": "^2.0.4"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "test",
+        "start": "npx nodemon server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "none"
+    },
+    "keywords": [
+        "aldinata7"
+    ],
+    "author": "l7",
+    "license": "ISC"
+}

@@ -1,0 +1,1 @@
+grid.down('headercontainer').getGridColumns();
